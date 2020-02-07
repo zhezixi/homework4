@@ -78,8 +78,13 @@ del {
 }
 
 abbr[title], dfn[title] {
-    border-bottom: 1px dotted;
-    cursor: help;
+    border-bottom:1px dotted;
+    cursor:help;
+}
+
+table {
+    border-collapse:collapse;
+    border-spacing:0;
 }
 
 /* change border colour to suit your needs */
